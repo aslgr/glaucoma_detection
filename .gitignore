@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+data/
+
+# Trained models
+models/
+
+# Generated outputs
+results/
+
+# System
+.DS_Store
